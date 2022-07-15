@@ -1,0 +1,5 @@
+this code will be ecnrypted with a provate key
+then the key will be encrypted
+then tthe decrypting program reads the encrypted key
+decrypts it with public key
+then decrypts code
